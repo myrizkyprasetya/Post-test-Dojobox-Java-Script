@@ -9,7 +9,7 @@ else {
     document.write("Maaf Anda Tidak Lulus")
 }
 
-
+//kelulusan
 var nilai = prompt('Masukkan nilai = ');
 if (nilai >= 70) {
     document.write("Selamat Anda Lulus");

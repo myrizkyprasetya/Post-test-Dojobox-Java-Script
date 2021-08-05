@@ -1,3 +1,4 @@
+//Program Switch-Case Javascript
 var nilai = parseInt(prompt('Masukkan nilai Anda = ','0-100'));
 
 switch(true){
